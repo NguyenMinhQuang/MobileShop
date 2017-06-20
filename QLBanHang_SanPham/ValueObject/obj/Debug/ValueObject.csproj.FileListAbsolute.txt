@@ -1,0 +1,10 @@
+C:\Users\P2Share\Desktop\QLBanHang\ValueObject\bin\Debug\ValueObject.dll
+C:\Users\P2Share\Desktop\QLBanHang\ValueObject\bin\Debug\ValueObject.pdb
+C:\Users\P2Share\Desktop\QLBanHang\ValueObject\obj\Debug\ValueObject.csprojResolveAssemblyReference.cache
+C:\Users\P2Share\Desktop\QLBanHang\ValueObject\obj\Debug\ValueObject.dll
+C:\Users\P2Share\Desktop\QLBanHang\ValueObject\obj\Debug\ValueObject.pdb
+C:\QLBanHang\ValueObject\bin\Debug\ValueObject.dll
+C:\QLBanHang\ValueObject\bin\Debug\ValueObject.pdb
+C:\QLBanHang\ValueObject\obj\Debug\ValueObject.csprojResolveAssemblyReference.cache
+C:\QLBanHang\ValueObject\obj\Debug\ValueObject.dll
+C:\QLBanHang\ValueObject\obj\Debug\ValueObject.pdb

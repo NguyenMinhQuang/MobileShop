@@ -1,0 +1,14 @@
+C:\Users\P2Share\Desktop\QLBanHang\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\P2Share\Desktop\QLBanHang\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\P2Share\Desktop\QLBanHang\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+C:\Users\P2Share\Desktop\QLBanHang\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\P2Share\Desktop\QLBanHang\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\P2Share\Desktop\QLBanHang\DataAccessLayer\bin\Debug\ValueObject.dll
+C:\Users\P2Share\Desktop\QLBanHang\DataAccessLayer\bin\Debug\ValueObject.pdb
+C:\QLBanHang\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+C:\QLBanHang\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\QLBanHang\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\QLBanHang\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\QLBanHang\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\QLBanHang\DataAccessLayer\bin\Debug\ValueObject.dll
+C:\QLBanHang\DataAccessLayer\bin\Debug\ValueObject.pdb
